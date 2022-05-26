@@ -1,6 +1,6 @@
 # Hello! 👋 
 
-Here's a bit about me...
+Here's a little bit about myself 👇
 
 ## Early years 🍼
 

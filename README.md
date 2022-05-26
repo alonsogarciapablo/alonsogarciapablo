@@ -1,6 +1,6 @@
 Hello stranger! 👋 
 
-I'm Pablo, and, from as long as I can remember, I’ve enjoyed building stuff with computers. 👇
+I'm Pablo, and, from as long as I can remember, I’ve enjoyed building stuff with computers.
 
 From playing with BASIC, to doing ASCII art in WordStar, to making pixel art with MS Paint, to coding a website for my mom’s company in Flash… my desire to create things with code led me to studying Computer Science and start a career as a Software Engineer.
 
